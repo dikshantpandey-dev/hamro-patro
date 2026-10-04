@@ -23,7 +23,7 @@ elif [ -e "$DEST" ]; then
 fi
 ln -s "$SRC" "$DEST"
 
-if fc-list | grep -qi kalimati; then
+if fc-list | grep -i kalimati >/dev/null; then
   echo "==> Kalimati already installed"
 else
   echo "==> Installing Kalimati font"
