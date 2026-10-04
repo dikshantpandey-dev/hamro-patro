@@ -1,0 +1,9 @@
+{
+  "name": "Hamro Patro",
+  "description": "Nepali date, full B.S. month calendar, tithi, events and festivals in the top bar.",
+  "uuid": "hamro-patro@dikshantpandey-dev",
+  "settings-schema": "org.gnome.shell.extensions.hamro-patro",
+  "shell-version": ["46", "47", "48", "49", "50"],
+  "url": "https://github.com/dikshantpandey-dev/hamro-patro",
+  "version": 1
+}

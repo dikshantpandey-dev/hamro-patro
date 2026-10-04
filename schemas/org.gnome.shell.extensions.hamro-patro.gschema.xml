@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.hamro-patro" path="/org/gnome/shell/extensions/hamro-patro/">
+    <key name="menu-position" type="s">
+      <default>'center'</default>
+      <summary>Position of the Hamro Patro menu</summary>
+      <description>Where the menu is placed on the panel: 'left', 'center' or 'right'.</description>
+    </key>
+  </schema>
+</schemalist>
